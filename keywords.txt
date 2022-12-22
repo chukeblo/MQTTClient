@@ -1,0 +1,9 @@
+# Syntax coloring Map For MQTTClient library.
+
+# Datatypes (KEYWORD1)
+
+# Methods and Functions (KEYWORD2)
+
+# Instances (KEYWORD2)
+
+# Constants (LITERAL1)
